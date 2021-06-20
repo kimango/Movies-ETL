@@ -1,6 +1,3 @@
-# Ignore config file
-config.py
-
 # Jupyter Notebook
 ratings.csv
 *.csv
