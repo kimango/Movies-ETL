@@ -3,3 +3,4 @@ config.py
 
 # Jupyter Notebook
 ratings.csv
+*.csv
